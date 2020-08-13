@@ -1,2 +1,2 @@
 # bitglass-test
-test blue 2
+test blue 3
